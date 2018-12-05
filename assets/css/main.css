@@ -1,0 +1,13 @@
+.centered {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.logo {
+    background-color: #4aaaaf;
+    color: white;
+    padding: 40px;
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
